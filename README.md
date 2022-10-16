@@ -5,9 +5,7 @@ https://streamable.com/hb08pv
 
 **External Fortnite Cheat written mostly in C++.**
 
-**Status: Outdated**
-
-Discord: https://discord.gg/cebNKKYQTj
+**Status: Working**
 
 **Cheat Features:**
 
